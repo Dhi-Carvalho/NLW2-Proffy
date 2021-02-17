@@ -13,7 +13,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/images/banner.jpg" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/images/banner.png" />
 </h1>
 
 <h3 align="center"> 
