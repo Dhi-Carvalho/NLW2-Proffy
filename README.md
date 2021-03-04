@@ -107,7 +107,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[Nodejs](https://nodejs.org/en/)**
 -   **[Express](https://expressjs.com/)**
--   **[SQLite3](https://www.npmjs.com/package/sqlite3)**
+-   **[SQLite-Async](https://www.npmjs.com/package/sqlite-async)**
 -   **[Nunjucks](https://mozilla.github.io/nunjucks/)**
 -   **[Nodemon](https://www.npmjs.com/package/nodemon)**
 
