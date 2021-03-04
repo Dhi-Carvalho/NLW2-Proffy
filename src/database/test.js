@@ -5,7 +5,7 @@ Database.then(async (db) => {
     proffyValue = {
         name: "Diego Fernades",
         avatar: "https://avatars.githubusercontent.com/u/2254731?s=460&u=4fcc8ca9672eeb41ea800271831b7c687bc17054&v=4",
-        whatsapp: 85452233464,
+        whatsapp: "85452233464",
         bio: "Entusiasta das melhores tecnologias de química avançada.<br><br>Apaixonado por explodir coisas em laboratório e por mudar a vida das pessoas através de experiências. Mais de 200.000 pessoas já passaram por uma das minhas explosões.",
     }
 
