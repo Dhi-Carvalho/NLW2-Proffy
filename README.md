@@ -17,7 +17,7 @@
 </h1>
 
 <h3 align="center"> 
-	🚧  Proffy 👨‍🏫 Em Andamento 🚀 🚧
+	🚧  Proffy 👨‍🏫 Finalizado 🚀 🚧
 </h3>
 
 <p align="center">
@@ -144,7 +144,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sobe a licença [MIT](https://github.com/Dhi-Carvalho/NLW2-Proffy/blob/main/License).
 
 Feito com por Dhi Carvalho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/dhi-carvalho/)
 
